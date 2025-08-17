@@ -15,12 +15,12 @@ These converters are essential in **digital systems where binary values must be 
 
 | File                         | Description                                                              |
 | ----------------------------------- | ------------------------------------------------------------------------ |
-| **binary\_to\_bcd.sv**           | Verilog module for Binary → BCD conversion using Double Dabble algorithm |
-| **bcd\_to\_binary.sv**           | Verilog module for BCD → Binary conversion                               |
-| **binary\_bcd\_converter.sv**    | Combined bidirectional converter handling both Binary ↔ BCD conversions  |
-| **binary\_to\_bcd\_tb.sv**        | Testbench for verifying Binary → BCD converter                           |
-| **bcd\_to\_binary\_tb.sv**        | Testbench for verifying BCD → Binary converter                           |
-| **binary\_bcd\_converter\_tb.sv** | Testbench for validating combined bidirectional converter                |
+| **binary\_to\_bcd\_desgin.sv**           | Verilog module for Binary → BCD conversion using Double Dabble algorithm |
+| **bcd\_to\_binary\_desgin.sv**           | Verilog module for BCD → Binary conversion                               |
+| **binary\_bcd\_converter\_desgin.sv**    | Combined bidirectional converter handling both Binary ↔ BCD conversions  |
+| **binary\_to\_bcd\_testbench.sv**        | Testbench for verifying Binary → BCD converter                           |
+| **bcd\_to\_binary\_testbench.sv**        | Testbench for verifying BCD → Binary converter                           |
+| **binary\_bcd\_converter\_testbench.sv** | Testbench for validating combined bidirectional converter                |
 
 ---
 
